@@ -41,3 +41,9 @@ server.listen(3000);
 // npm run concurrent
 
 // to basically aisa kyu kahi run use kr rahe hai and kahi nahi kr rahe hai to aisa kyu 
+
+// Answer - to basically yha hota ye hai ki jab hamlog apne system pe node ko install krte hai to hamare system me do words "start" and "test" ye dono as default hamare pc me add ho jaate meaans ye hamare system ke path me mention ho jaate hai issliye jab hamlog inn commands ko run krte hai to waha run ki jarurat nahi padti but in case ki koi aisi script hai jo node ke saath mention nahi hui jaise ki maaan lo mango naam ka ek script banaya lekin wo to mentionedd hai naahi issliye hamlog ko uske aage run ka use krna padta hai 
+
+
+
+// so basically hamlog kitne bhi sscripts bana sakte hai usme koi problem nahai hai but wahi hai ki start and test ko chor ke saare ke aage run lagega
