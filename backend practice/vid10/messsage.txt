@@ -1,0 +1,42 @@
+sir ne isme theory paart bataya hai and ham kya kya krenge next video me and diffrent chiz batayi ki pura ka pura database kasiae work krta hai 
+
+pehle to database ka 2 type hai 
+1.SQL
+2.NoSQL
+
+* uske baad hame padhna hai NoSQL kyuki aaj ke hisab se trend me wahi hai 
+
+SQL - data table ke format me store hota hai jo easily understandable hai but use nahi hota hai 
+
+NoSQL - data object ke format me save hota hai to isko use krna thoda easy padta hai 
+
+
+ab data ko kya krna hai and wo banega kaise to isme three steps hota haia 
+
+--------------------------------------------------------------------------------------
+|                           |                             |                          |
+|                           |                             |                          |
+|                           |                             |                          |
+|                           |                             |                          |
+|                           |                             |                          |
+|                           |                             |                          |
+|                           |                             |                          |
+|                           |                             |                          |
+|             A             |               B             |            C             |
+|                           |                             |                          |
+|                           |                             |                          |
+|                           |                             |                          |
+|                           |                             |                          |
+|                           |                             |                          |
+|                           |                             |                          |
+|                           |                             |                          |
+--------------------------------------------------------------------------------------
+
+1st - data database ke level pe store hota hai jo kisi bhi company me group of data hisab se store kiya jata hai
+2nd - database ke andar collection of specific data hota hai jo save hota hai , groups ke format me
+3rd - ab collection ke andar data document ke fomat me store hota ahai 
+
+
+mongoose.connect      ->        daatabase creation
+model create          ->        collection
+CREATE code           ->        document
